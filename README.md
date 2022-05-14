@@ -14,6 +14,7 @@
 [![OpenBSD](https://img.shields.io/badge/-OpenBSD-black?style=flat-square&logo=openbsd&logoColor=black&labelColor=white)](https://openbsd.org)
 [![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android&labelColor=white)](https://android.com)
 [![KaiOS](https://img.shields.io/badge/-KaiOS-black?style=flat-square&logo=kaios&logoColor=purple&labelColor=white)](https://kaiostech.com)
+[![FreeDOS](https://img.shields.io/badge/-FreeDOS-black?style=flat-square&logo=powershell&logoColor=black&labelColor=white)](https://freedos.org)
 [![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=raspberrypi&logoColor=red&labelColor=white)](https://raspberrypi.org)
 [![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite&logoColor=blue&labelColor=white)](https://sqlite.org)
 [![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache&logoColor=black&labelColor=white)](https://apache.org)
