@@ -37,4 +37,4 @@ Howdy, I'm Daniel Lemke.
 
 [![Email](https://img.shields.io/badge/-dlemke@taklesoftware.com-black?style=for-the-badge&logo=gmail&labelColor=white)](mailto:dlemke@taklesoftware.com)
 [![LinkedIn](https://img.shields.io/badge/-@mrlemke-black?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/mrlemke/)
-[![Twitter](https://img.shields.io/badge/-@mister_lemke-black?style=for-the-badge&logo=twitter&labelColor=white)](https://twitter.com/mister_lemke)
+[![Twitter](https://img.shields.io/badge/-@mister__lemke-black?style=for-the-badge&logo=twitter&labelColor=white)](https://twitter.com/mister_lemke)
